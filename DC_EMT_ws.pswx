@@ -1,0 +1,16 @@
+<workspace name="DC_EMT_ws" version="5.0.2" crc="50809542">
+  <projects>
+    <project type="library" name="DC_EMT_lib" filepath=".\DC_EMT_lib.pslx" />
+    <project type="project" name="DC_EMT_demo" filepath=".\DC_EMT_demo.pscx" />
+    <project type="project" name="DC_EMT_compare" filepath=".\DC_EMT_compare.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>
